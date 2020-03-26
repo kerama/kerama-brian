@@ -19,17 +19,6 @@ Known Bugs
 Technologies Used
 
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
-Support and contact details
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}
-License
-
-{Determine the license under which this application can be used. See below for more details on licensing.} Copyright (c) {year} {List of contributors or company name} BRIAN KERAMA Best portfolio ever, 2018 By BRIAN KERAMA Description
-
-As part of life I had to write down my portfolio due to my life's experience and it should be of encouragement. Support and contact details
-
-You can reach me at 0704177303 or 0721879972 for any questions and clarrifications. Link
-
-https://github.com/kerama/my-first-website.git License
 
 Copyright (c) 2018 BRIAN KERAMA
